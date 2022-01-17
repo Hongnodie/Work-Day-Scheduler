@@ -37,4 +37,4 @@ THEN the saved events persist
 
 ## Resources
 
-![Moment.js](https://momentjs.com/)
+# [Moment.js](https://momentjs.com/)
