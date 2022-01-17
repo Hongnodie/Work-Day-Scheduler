@@ -33,7 +33,7 @@ THEN the saved events persist
 
 ## Screenshot
 
-![Use Calendar]()
+![Use Calendar](./assets/images/screenshot.png)
 
 ## Resources
 
